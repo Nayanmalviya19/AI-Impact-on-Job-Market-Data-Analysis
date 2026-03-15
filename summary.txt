@@ -1,0 +1,7 @@
+This project analyzes the impact of Artificial Intelligence on the job market using an interactive dashboard built in Microsoft Power BI.
+The dashboard uses an AI job market dataset containing information such as job titles,
+salaries, industries, countries, experience levels, and job openings. Various visualizations like a donut chart, area chart,
+bar chart, and global map are used to present insights. The dashboard shows salary distribution across roles like AI Engineer,
+Data Scientist, and Data Analyst, as well as trends in job openings over the years. It also highlights which industries and countries have the highest demand
+for AI professionals. Interactive filters allow users to explore data by education level, company size, and experience. Overall, the project demonstrates the growing demand for 
+AI-related jobs and the importance of technical skills such as Machine Learning and Python in the modern workforce.
