@@ -4,33 +4,44 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Impact on Job Market Dashboard</title>
+
 <style>
+
 body{
     font-family: Arial, sans-serif;
     margin:40px;
     line-height:1.6;
 }
+
 h1,h2,h3{
     color:#4B2E83;
 }
+
 .container{
     max-width:1000px;
     margin:auto;
 }
-.tech-logos img{
-    height:70px;
-    margin:15px;
-}
+
 .dashboard-img img{
     width:100%;
     border-radius:10px;
     box-shadow:0 4px 10px rgba(0,0,0,0.2);
 }
+
+/* Tools logo size set to 25px (smaller icons) */
+.tech-logos img{
+    height:25px;
+    width:auto;
+    margin:8px;
+    vertical-align:middle;
+}
+
 .footer{
     margin-top:40px;
     font-size:14px;
     color:gray;
 }
+
 </style>
 </head>
 
@@ -41,27 +52,18 @@ h1,h2,h3{
 <h1>AI Impact on Job Market Data Analysis Dashboard</h1>
 
 <p>
-This project presents an interactive dashboard built using 
-<strong>Power BI</strong> to analyze the impact of Artificial Intelligence on 
-the global job market. The dashboard provides insights into salary trends, 
-job demand, industry hiring patterns, and geographical distribution of AI jobs.
+This project presents an interactive dashboard built using Power BI to analyze 
+the impact of Artificial Intelligence on the global job market. The dashboard 
+provides insights into salary trends, job demand, industry hiring patterns, 
+and geographical distribution of AI jobs.
 </p>
 
 <h2>Project Objective</h2>
 
 <p>
-The main goal of this project is to explore how Artificial Intelligence is 
-influencing employment opportunities in data-related fields. It helps users 
-understand which roles are most in demand, how salaries vary across job titles, 
-and which industries are actively hiring AI professionals.
-</p>
-
-<h2>Dataset Description</h2>
-
-<p>
-The dataset used in this project includes multiple attributes related to 
-AI job postings such as job titles, salary, industry, country, company size, 
-experience level, and required skills like Python and Machine Learning.
+The objective of this project is to understand how Artificial Intelligence 
+is transforming the job market and identify which roles, industries, and 
+skills are most in demand.
 </p>
 
 <h2>Dashboard Features</h2>
@@ -72,7 +74,7 @@ experience level, and required skills like Python and Machine Learning.
 <li>Industry-wise Hiring Analysis</li>
 <li>Global Job Distribution Map</li>
 <li>Top 3 Most Demanded Job Roles</li>
-<li>Interactive Filters for Industry, Experience, and Education</li>
+<li>Interactive Filters for detailed analysis</li>
 </ul>
 
 <h2>Dashboard Overview</h2>
@@ -82,6 +84,8 @@ experience level, and required skills like Python and Machine Learning.
 </div>
 
 <h2>Tools & Technologies Used</h2>
+
+<p>(Logos size: 25px height)</p>
 
 <div class="tech-logos">
 
@@ -93,26 +97,16 @@ experience level, and required skills like Python and Machine Learning.
 
 </div>
 
-<h2>Key Insights</h2>
-
-<ul>
-<li>AI-related job roles are growing rapidly worldwide.</li>
-<li>AI Engineers and Machine Learning Engineers receive the highest salaries.</li>
-<li>Technology and finance industries show the highest demand for AI professionals.</li>
-<li>Global demand for AI talent is increasing across multiple regions.</li>
-</ul>
-
 <h2>Conclusion</h2>
 
 <p>
-This dashboard demonstrates how data visualization tools can be used to 
-analyze trends in the AI job market. It provides meaningful insights for 
-students, job seekers, and organizations to understand emerging opportunities 
-in the field of Artificial Intelligence and data analytics.
+This dashboard demonstrates how data visualization tools can be used to analyze 
+AI job market trends and provide insights for students, professionals, and 
+organizations.
 </p>
 
 <div class="footer">
-<p>Created for Data Analysis and Visualization Project</p>
+<p>Data Analytics Dashboard Project</p>
 </div>
 
 </div>
